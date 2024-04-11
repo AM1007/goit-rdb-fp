@@ -55,3 +55,6 @@ For the original or normalized table, for the `Year` column, construct using bui
 
 > [!IMPORTANT]
 > If you haven't completed the previous task, you can create another function - one that calculates the number of diseases for a specific period. To accomplish this, you'll divide the number of diseases per year by a given number: 12 to obtain the average number of diseases per month, 4 per quarter, or 2 per half-year. Therefore, the function will take two parameters: the number of diseases per year and a divisor of your choice. You should also apply this function by running it on the data. Since not all rows contain a number of diseases, you'll need to filter out those that don't have a numerical value (not equal to '').
+
+![Preview](./p5/p5_1.png)
+![Preview](./p5/p5_2.png)

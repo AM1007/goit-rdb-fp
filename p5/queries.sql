@@ -1,4 +1,3 @@
--- 5.1
 DROP FUNCTION IF EXISTS fn_subtract_now_year;
 
 DELIMITER //
@@ -18,7 +17,6 @@ DELIMITER ;
 SELECT fn_subtract_now_year(1984);
 
 
--- 5.2
 DROP FUNCTION IF EXISTS fn_calc_illnesses_per_period;
 
 DELIMITER //
